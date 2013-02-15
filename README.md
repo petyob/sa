@@ -1,3 +1,1 @@
-sa
-==
 Telerik Software academy
