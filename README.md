@@ -1,4 +1,3 @@
 sa
 ==
-
-Software academy
+Telerik Software academy
