@@ -1,1 +1,2 @@
 Telerik Software academy
+----------------------
