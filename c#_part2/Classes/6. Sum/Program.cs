@@ -11,6 +11,7 @@ class Program
         input = input.Trim(); // remove spaces before and after
 
         Console.WriteLine(Sum(input));
+        Console.ReadLine();
     }
 
     static int Sum(string input)
